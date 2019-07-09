@@ -26,3 +26,19 @@ Route::get('length_color', function () {
 Route::get('font', function () {
     return view('font');
 });
+
+Route::get('box', function () {
+    return view('box');
+});
+
+Route::get('position', function () {
+    return view('position');
+});
+
+Route::get('flexbox', function () {
+    return view('flexbox');
+});
+
+Route::get('final_flexbox', function () {
+    return view('final_flexbox');
+});

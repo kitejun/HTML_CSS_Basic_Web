@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-<h1>
+<h2>
 <ul>
     <br>
     <li>
@@ -45,7 +45,31 @@
         폰트
         </a>
     </li>
+    <br>
+    <li>
+        <a href="http://127.0.0.1:8000/box" target="_self">
+        박스
+        </a>
+    </li>
+    <br>
+    <li>
+        <a href="http://127.0.0.1:8000/position" target="_self">
+        위치
+        </a>
+    </li>
+    <br>
+    <li>
+        <a href="http://127.0.0.1:8000/flexbox" target="_self">
+        flexbox(크기가 다 달라도 위치 같음)
+        </a>
+    </li>
+    <br>
+    <li>
+        <a href="http://127.0.0.1:8000/final_flexbox" target="_self">
+        flexbox 최종
+        </a>
+    </li>
     </ul>
-</h1>
+</h2>
 </body>
 </html>
